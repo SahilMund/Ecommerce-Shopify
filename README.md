@@ -1,7 +1,8 @@
 
 ## 🌟 MERN Marketplace || Ecommerce-Shopify 🌟
 
-The MERN Marketplace application will allow users to become sellers, who can manage  shops, and add the products they want to sell in each shop. Admin can control functionality of Seller Users who visit MERN Marketplace will be able to search for and browse products they want to buy, and add products to their shopping cart to place an order. we have 3 Order Method.
+Built a MERN Marketplace enabling users to become sellers, manage shops, and list products for sale. Visitors can search, browse, and add items to their cart for purchasing. Implemented secure non-volatile messaging, JWT authentication, and email verification for communication between sellers and buyers. Integrated Stripe and Paypal payment for seamless transactions.
+
 </div>
 
 ## 🖥️ Tech Stack
